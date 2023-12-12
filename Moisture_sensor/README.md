@@ -2,7 +2,7 @@
 
 ### Team members
 
-* Viktor Vlček 
+* Viktor Vlček 2
 * Filip Tůma 
 * Šimon Bárta 
 * David Bartoň 
